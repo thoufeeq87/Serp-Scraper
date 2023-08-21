@@ -1,4 +1,4 @@
-Copy code
+
 # SERP Scraper
 
 This repository contains scripts designed to scrape search results from Google's SERP (Search Engine Results Page). The tools fetch various search results, such as organic results, images, videos, and People Also Ask (PAA) questions.
